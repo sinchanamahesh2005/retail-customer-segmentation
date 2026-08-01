@@ -89,14 +89,6 @@ RetailAnalytics/
   - Lost Customers
 - Developed an interactive Tableau dashboard to visualize customer behaviour and business insights.
 
----
-
-## Future Improvements
-
-- Predict customer churn using machine learning
-- Build product recommendation models
-- Deploy as a web application
-- Automate the ETL pipeline
 
 ---
 
